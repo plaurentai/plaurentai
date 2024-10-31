@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plaurentai
-- 👀 I’m interested in machine learning and blockchain development
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on project related to machine learning
+- 👀 I’m interested in python, machine learning and cloud related works
+<!-- - 🌱 -->
+- 💞️ I’m looking to collaborate on project related to my interest
 - 📫 How to reach me @plaurentai
 
 <!---
